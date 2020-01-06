@@ -15,5 +15,5 @@ For the new modifications to the PlanMyTrip app, you are asked to add more data 
 
 The number of cities that had rain or snowfall out of the 1500 randomly generated geo-locations.
 
-Rain inches (last 3 hrs)     51
-Snow inches (last 3 hrs)     32
+Rain inches (last 3 hrs): 51  
+Snow inches (last 3 hrs): 32
